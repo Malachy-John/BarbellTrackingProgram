@@ -1,0 +1,11 @@
+IMG = video
+
+04 = video number
+
+01 = session_id
+
+01 = user_id 
+
+01 = set_id
+
+90 = weight
